@@ -1,7 +1,7 @@
 # AutoSourceID
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587205.svg)](https://doi.org/10.5281/zenodo.4587205)
-[![DOI](https://doi.org/10.1051/0004-6361/202141193)
+[![DOI]](https://doi.org/10.1051/0004-6361/202141193)
 [![arXiv](https://img.shields.io/badge/arXiv-2103.11068-darkred.svg)](https://arxiv.org/abs/2103.11068)
 
 Localization and classification of gamma-ray point sources using Machine Learning
