@@ -1,4 +1,4 @@
-# Gamma-Ray-Point-Source-Detector
+# AutoSourceID
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587205.svg)](https://doi.org/10.5281/zenodo.4587205)
 [![arXiv](https://img.shields.io/badge/arXiv-2103.11068-darkred.svg)](https://arxiv.org/abs/2103.11068)
